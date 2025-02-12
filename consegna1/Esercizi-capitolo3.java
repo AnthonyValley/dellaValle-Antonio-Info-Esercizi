@@ -16,6 +16,8 @@ if (x % 2 == 0) {
     x = x * 3 - 1;
 }
 
+
+
 // Esercizio 3: Scrivere un programma che chieda all'utente di restituire una risposta di tipo sì/no. Si supponga che il programma legga la risposta dell'utente e la inserisca nella variabile String risposta.
 // Se il valore di risposta è "sì" o "s", assegnare alla variabile accettato il valore true; altrimenti assegnare false.
 // Come si può modificare il codice in modo che accetti anche i valori "Si" e "S"?
